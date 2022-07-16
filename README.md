@@ -3,9 +3,11 @@ Aplikasi Android untuk pemesanan tas anyaman jali.
 
 input:
 
-1 pilih gambar tas,
+1. Pilih gambar tas,
 
-2 identitas pembeli
+2. Pilih jumlah tas yang ingin dibeli.
+
+3. Alamat pengiriman:
 
 a. nama
 
